@@ -3,7 +3,7 @@ Software: Jupyter Notebook, R, GitHub
 
 Add-on packages on Python Notebook: 
 
-Add-on packages on R: ggplot2, dplyr, 
+Add-on packages on R: ggplot2, dplyr
 
 Platform: Mac and Windows
 ## Section 2: A Map of our Documentation
