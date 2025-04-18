@@ -37,14 +37,27 @@ This folder contains:
 
 ## Section 3: Instructions for reproducing results.
 ### Finding Data
-
-
+    - Access the Sephora.com scraper from Apify https://console.apify.com/actors/VQgG0AxMdbVOfZviQ/input
+    - Input the lip products website https://www.sephora.com/shop/lips-makeup
+    - Set the page limit to 50
+    - Scrape 458 results with Brand, Category, Detail_link, ID, Image, Name, Price, Quantity_rating, and Rating
 ### Cleaning Data
-
-
+    - Open Sephora_Lip_Color_Analysis into Jupyter Notebook and follow its steps
+    - Install packages
+    - Read in dataset Sephora_Lip_Products_Image_Data.csv
+    - Import packages
+    - Rename columns
+    - Download each Sephora brand lip product into a jpg from the image url and save them into a local folder
+    - Define color shades by their distinct shade range
+    - Create brand and lip product-specific visual palette strips
 ### EDA
-
-
-
+    - For Average Star Rating by Brand: follow the steps indicated in EDA.R in the SCRIPTS folder
+    - For Top 10 Most Expensive Lip Products: 
+    - For Count of Products per Brand: use Excel to get the product counts grouped by each brand and highlight the 6 brands with the highest counts 
+    - For Average Lip Product Price by Brand: 
 ### Analysis and Results
+[to be added after presentation is finished]
+
+
+
 
