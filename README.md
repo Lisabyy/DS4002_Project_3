@@ -1,7 +1,10 @@
 ## Section 1: Software and platform used.
 Software: Jupyter Notebook, R, GitHub
+
 Add-on packages on Python Notebook: pillow matplotlib.pyplot, pandas, requests, os, urlparse, ColorThief, colorsys, Image, ImageDraw, re, numpy, seaborn, statsmodels.api, torch
+
 Add-on packages on R: ggplot2, dplyr
+
 Platform: Mac and Windows
 
 ## Section 2: A Map of our Documentation
